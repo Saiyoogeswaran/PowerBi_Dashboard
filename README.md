@@ -53,5 +53,7 @@ The Dashboard Performance Insights provides insights into the performance of the
 ### Dashboard Profit Analysis
 The Dashboard Profit Analysis provides insights into the profitability of the company. The insights include profit by product, profit by customer, and profit by region.
 
+# Snapshot of Dashboard (Power BI)
+
 ![Dashboard](https://github.com/Saiyoogeswaran/PowerBi_Dashboard/assets/113286663/0aee61cc-bf5a-47f4-b5ff-aa4c08a1c099)
 
